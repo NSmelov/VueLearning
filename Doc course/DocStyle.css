@@ -1,0 +1,28 @@
+body {
+    background-color: coral;
+}
+.container {
+    background-color: tomato;
+    text-align: center;
+    padding: 40px 40px;
+    border-radius: 30px;
+}
+.btn {
+    border-radius: 10px;
+    background-color: violet;
+    width: 2cm;
+    height: 1cm;
+    margin: 20px 20px;
+}
+.score {
+    font-size: 30px;
+    color: black;
+}
+[v-cloak] {
+    display: none;
+}
+
+[name='text'] {
+    border-radius: 20px;
+    font-size: 20px;
+}
